@@ -1,6 +1,6 @@
 # r-softmax
 
-Code for r-softmax function from paper:
+Code for r-softmax probability mapping function
 
 r-softmax: Generalized Softmax with Controllable Sparsity Rate
 
